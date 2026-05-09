@@ -34,18 +34,9 @@ A single Excel workbook containing:
 | `screenshot-dashboard.png` | Full dashboard view |
 | `README.md` | This file |
 
-## How to Use
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9dee6186-798a-41aa-9c59-457f5e17d23b" />
 
-1. Download `Sales_Dashboard.xlsx`.
-2. Open in Excel (Microsoft 365 or Excel 2021+ recommended).
-3. Use the **Region** and **Product** slicers to filter all charts and KPIs.
-4. To add new orders, insert rows into the `SalesData` table (the Table will expand automatically). Refresh PivotTables (right‑click → Refresh) and the dashboard updates.
 
-## Author
-
-**Michael Boadi Ofosu**  
-- YouTube: [@kbrodatech](https://youtube.com/@kbrodatech)  
-- GitHub: [Mictafari](https://github.com/Mictafari)
 
 ## License
 
